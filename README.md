@@ -1,1 +1,3 @@
-Hello! I'm learning C# and looking to start a career in programming.
+Hello! My name is David, and I am a young professional looking to build a skill set in programming. I started learning how to program in C# last year by following the Udemy course "Learn to Code by Making Games - the Complete Unity Developer Course". I completed the 2D portion (~55%) of the course and was planning on starting work towards creating a 2D game. Unfortunately, some developments in my personal life took priority, and I was unable to resume my learning journey until now. 
+
+Currently, I am looking to take what I learned last year with Unity and convert it into a more general C# foundation to launch my career with. I am working through the Yellow Book by Rob Miles currently. If my knowledge is still insufficient to begin an apprenticeship/entry-level position after its completion, I will be looking to educate myself further. 
